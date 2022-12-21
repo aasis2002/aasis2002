@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/05/27/08/51/mobile-phone-1419275_960_720.jpg)](https://aasis2002.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2016/05/27/08/51/mobile-phone-1419275_960_720.jpg)]
 <h1 align="center">Hi 👋, I'm Aashish Mehta</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
