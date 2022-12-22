@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/05/27/08/51/mobile-phone-1419275_960_720.jpg)]
+
 <h1 align="center">Hi 👋, I'm Aashish Mehta</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis2002&label=Profile%20views&color=0e75b6&style=flat" alt="aasis2002" /> </p>
 
