@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis2002&label=Profile%20views&color=0e75b6&style=flat" alt="aasis2002" /> </p>
 
-- 🌱 I’m currently learning **React, javascript, Python, Java**
+- 🌱 I’m currently learning **React, javascript, Python, Java, Django**
 
 - 💬 Ask me about **Android, Web-Development**
 
