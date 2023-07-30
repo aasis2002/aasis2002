@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Aashish Mehta</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">Security Analyst from Nepal.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis2002&label=Profile%20views&color=0e75b6&style=flat" alt="aasis2002" /> </p>
 
-- 🌱 I’m currently learning **React, javascript, Python, Java, Django**
+- 🌱 I’m currently learning **CEH , Cybersecurity Knowledge, (React, javascript, Python, Java, Django)**
 
-- 💬 Ask me about **Android, Web-Development**
+- 💬 Ask me about **Android, Cybersecurity Knowledge, Web-Development**
 
 - 📫 How to reach me **aasissingh165@gmail.com**
 
