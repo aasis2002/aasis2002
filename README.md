@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android, Cybersecurity Knowledge, Web-Development**
 
-- 📫 How to reach me **aasissingh165@gmail.com**
+- 📫 How to reach me **2100099009csit@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
